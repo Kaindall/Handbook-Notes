@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/dd/64/da/dd64da585bc57cb05e5fd4d8ce873f57.png" widht=225 height=225></img>
-<h2>Notebook</h2>
+<h2>Annotations</h2>
 </div>
 <p>This is a notebook to add all my notes and knowledge that I'm learning in this current moment. I'm using Google Docs to update everyday, and if you wanna copy just click on "File" —> "Copy File"</p>
 
