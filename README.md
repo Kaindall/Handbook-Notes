@@ -13,6 +13,9 @@
   <p>
  It's probably the biggest list here because Python is my focus. I learned and take notes about some libraries, here a list of them:
   </p>
+  </div>
+ 
+ <div>
   <p><strong>Web Scrapping & Crawling</strong></p>
   <ul>
    <li>Requests</li>
@@ -57,6 +60,15 @@
 </div>
 
 <hr>
+
+<div>
+ <h3>Java</h3>
+ <p>
+  Ok, a little bit more deeply and hard than Python, but with a lot of opportunities, I also studied Java and it's my annotations about that. And is almost impossible to study Java without the frameworks Collection and Spring (I also studied Springboot and JPA, that I'm coming to publish a repository entirely did by myself).
+ <a href="https://docs.google.com/document/d/18JvfkuFSC1V7404IMRebmmgmRdpOjHgbj-7QD7Plnmw/edit?usp=sharing"> See Here! </a></p>
+</div>
+
+<hr>
 <div>
  <h3>Shell/Bash & GIT</h3>
  <p>
@@ -78,7 +90,7 @@
 <div>
  <h3>Database & SQL</h3>
  <p>
-  Probably the most complete of all because a SQL Course is short and the adaptation of them is small for every DBS/SGBD. I know that exist a deeply knowledge about this theme and maybe I study them if I have the necessity to do it in the workplace. 
+  Probably the most complete of all because a SQL Course is short and the adaptation of them is small between every DBS/SGBD. I know that exist a deeply knowledge about this theme and maybe I study them if I have the necessity to do it in the workplace. 
   <a href="https://docs.google.com/document/d/1IKb571yMttLayUwAP1qbBukHkzmSDTqu30wVn-nUceo/edit?usp=sharing"> Link Here! </a>
  </p>
 </div>
